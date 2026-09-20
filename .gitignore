@@ -5,3 +5,6 @@ __pycache__/
 .DS_Store
 .ipynb_checkpoints/
 *.egg-info/
+# Raw event log, 567 MB, obtained separately
+data/train.parquet
+data/test.parquet
