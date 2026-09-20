@@ -5,5 +5,10 @@ __pycache__/
 .git/
 .github/
 tests/
+scripts/
+docs/
+data/train.parquet
+data/test.parquet
+data/README.md
 .DS_Store
 README.md
